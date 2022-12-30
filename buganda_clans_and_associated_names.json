@@ -1,0 +1,1201 @@
+[
+    {
+        "en_first_clan": "Royal Family",
+        "lug_first_clan": "Abalangira",
+        "en_second_clan": "",
+        "lug_second_clan": "",
+        "clan_head": "Ssaabataka",
+        "clan_seat":"Kaliiti, Busiro",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+                "Baleke", 
+                "Bbengo",
+                "Bamweyana", 
+                "Ccwa", 
+                "Galuleeba", 
+                "Ggolooba", 
+                "Ggomotoka", 
+                "Googombe", 
+                "Geeserwa", 
+                "JJemba", 
+                "Jjuma", 
+                "Jjuuko", 
+                "Jjunju", 
+                "Kalema", 
+                "Kalemeera",
+                "Kanaakulya", 
+                "Kaasabbanda", 
+                "Kagulu", 
+                "Kateregga", 
+                "Kawuuwa", 
+                "Kawagga", 
+                "Kateebe", 
+                "Kattakkesu", 
+                "Kaviiri",
+                "Kakungulu", 
+                "Kajumba", 
+                "Kamaanya", 
+                "Kaliro", 
+                "Kanaakulya", 
+                "Kayemba", 
+                "Kayima", 
+                "Kayiso", 
+                "Kayiza", 
+                "Kayondo", 
+                "Kazibwe", 
+                "Kikulwe", 
+                "Kikanja", 
+                "Kijjojjo", 
+                "Kiggala", 
+                "Kigoye", 
+                "Kibooli", 
+                "Kikumbi", 
+                "Kikunta", 
+                "Kimbugwe", 
+                "Kimera", 
+                "Kiweewa", 
+                "Kiwala", 
+                "Kyabayinze", 
+                "Lubambula", 
+                "Lumaama",
+                "Lumansi",
+                "Luyenje",
+                "Luyenje",
+                "Lumweno", 
+                "Lukanga", 
+                "Lukongwa",
+                "Luswata", 
+                "Lutimba", 
+                "Mawanda", 
+                "Mayinja", 
+                "Mayumba", 
+                "Maganda", 
+                "Madangu", 
+                "Mujiggwa",
+                "Mwenge",  
+                "Kiribata",
+                "Kyekaka", 
+                "Kiyimba", 
+                "Kyabaggu",
+                "Mbogo",   
+                "Mpiima",  
+                "Mulondo", 
+                "Mutebi",
+                "Muteesa",
+                "Nakibinge",
+                "Seninde",
+                "Ssegamwenge",
+                "Ssekamaanya",
+                "Ssefuuwa",
+                "Ssekoolya",
+                "Ssemakookiro",
+                "Sseemalume",
+                "Ssimbwa",
+                "Ssuuna",
+                "Tebandeke",
+                "Ttembo",
+                "Walugembe",
+                "Wampamba",
+                "Ssezaalunnyo",
+                "Wakayima",
+                "Wassajja",
+                "Wango",
+                "Zigulu",
+                "Zzimbe."
+            ],
+            "female": [
+                "Batenga",
+                "Batanda",
+                "Kagere",
+                "Kittengo",
+                "Kyomubi",
+                "Lugyayo",
+                "Lulaba",
+                "Luwedde",
+                "Lwantale",
+                "Mazzi",
+                "Mpologoma",
+                "Muggale",
+                "Nabadda",
+                "Nabisaalu",
+                "Nabiwemba",
+                "Nabweteme",
+                "Naccwa",
+                "Nnaluwembe",
+                "Nakabiri",
+                "Nakalema",
+                "Nakamaanya",
+                "Nakampi",
+                "Nakayenga",
+                "Nakimbugwe",
+                "Nakuyita",
+                "Nakiggala",
+                "Namaalwa",
+                "Namikka",
+                "Nanjobe",
+                "Nassiwa",
+                "Nassolo",
+                "Ndagire (ab'enjaza balituuma)",
+                "Ndege",
+                "Nkinzi",
+                "Tajuuba",
+                "Semalabe",
+                "Tuttekubano",
+                "Nnabaloga",
+                "Nattu",
+                "Ntaleyeebweera",
+                "Nazibanja",
+                "Nnamukaabya",
+                "Zalwango",
+                "Zansanze",
+                "Zzawedde."
+               
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Royals",
+        "lug_first_clan": "Babiito-Kooki",
+        "en_second_clan": "Millipede, Porch-roof-watter",
+        "lug_second_clan": "Mazzi ga Kisasi",
+        "clan_head": "Ssaababiito",
+        "clan_seat":"Rakai, Kkooki",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+                 "Busoyita",
+                 "Kayiba",
+                 "Keerlrimba",
+                 "Keyisimba",
+                 "Kitayimbwa",
+                 "Kyamatundu",
+                 "Kyebambe",
+                 "Kyesereka",
+                 "Labongo",
+                 "Lubambula",
+                 "Lubembe",
+                 "Luwaga",
+                 "Magembe",
+                 "Mazinga",
+                 "Mugenyi",
+                 "mujwiga",
+                 "Ndagala",
+                 "Ndawula",
+                 "Nnyondo",
+                 "Samula",
+                 "Ssansa",
+                 "Winyi",
+                 "Geera",
+                 "Kangogo",
+                 "Kanzaanira",
+                 "Kangogo",
+                 "Kaserula",
+                 "Keemikindu",
+                 "Kyabajuliza",
+                 "Kyangwa",
+                 "Mukaabagolomola",
+                 "Mukaakalumba",
+                 "Mukaakatinti",
+                 "Ndagano",
+                 "Yizimuuza"
+            ],
+            "female": [
+               "Nakabiito",
+               "Namugenyi",
+               "Namulunga",
+               "Nandawula",
+               "Nabongo"
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Royals",
+        "lug_first_clan": "Babiito-Kiziba",
+        "en_second_clan": "",
+        "lug_second_clan": "",
+        "clan_head": "Lutayinzibwa",
+        "clan_seat":"Ssanje, Buddu",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Royals",
+        "lug_first_clan": "Babiito-Kibulala",
+        "en_second_clan": "",
+        "lug_second_clan": "",
+        "clan_head": "Kitahimbwa",
+        "clan_seat":"Kibulala, Ssingo",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Mushrooms, Kind Of mushrooms",
+        "lug_first_clan": "Butiko",
+        "en_second_clan": "throne",
+        "lug_second_clan": "Namulondo",
+        "clan_head": "Ggunju",
+        "clan_seat":"Bukalango, Busiro",
+        "clan_mottos": [
+            "Weekirikite, Ggunju ajja",
+            "Gabolokota teggwa nte"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "African Civet cat",
+        "lug_first_clan": "Ffumbe",
+        "en_second_clan": "Frog",
+        "lug_second_clan": "Kikere",
+        "clan_head": "Walusimbi",
+        "clan_seat":"Bakka, Busiro",
+        "clan_mottos": [
+            "Galinnya e Bakka (amafumbe).",
+            "E Bakka basengejja (mbu ebirungi tebiggwa Bakka)",
+            "Kasolo ki? Ffumbe.",
+            "Ka muti gumu.",
+            "Kakozaakoza alikoza mu lw'effumbe.",
+            "Taatuuke Bumpi."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Genet",
+        "lug_first_clan": "Kasimba",
+        "en_second_clan": "Tiger",
+        "lug_second_clan": "engo, Ngo",
+        "clan_head": "Kabazzi",
+        "clan_seat":"Kyango, Mawokota",
+        "clan_mottos": [
+            "Kiiso bwe kikulaba obulungi, naawe okiraba.",
+            "Kababembe."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Kangaroo Rat",
+        "lug_first_clan": "Kayozi",
+        "en_second_clan": "Gerbil",
+        "lug_second_clan": "Nsombabyuma",
+        "clan_head": "Kafumu",
+        "clan_seat":"Kyango, Mawokota",
+        "clan_mottos": [
+            "Ggwe Mikigi, Ggwe Nsasa"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Black backed Jackal",
+        "lug_first_clan": "Kibe",
+        "en_second_clan": "",
+        "lug_second_clan": "Kassukussuku",
+        "clan_head": "Muyige",
+        "clan_seat":"Buluutwe, Kyaggwe",
+        "clan_mottos": [
+            "Nambuuze, kibe kyekubye nsiko.",
+            "Kyasanku, bakuzaala wa? Ku kizinga Wambogwe.",
+            "Gw'akwana amalirira, Muteesa; bw'anywa, bw'anywa, anywa nvuba, Muyige wa ddalu, wa ddalu"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Large black or Red ant",
+        "lug_first_clan": "Kinyomo",
+        "en_second_clan": "Heart",
+        "lug_second_clan": "Mutima",
+        "clan_head": "Nakigoye",
+        "clan_seat":"Kyasa, Buddu",
+        "clan_mottos": [
+            "Alinyaga ente omutima talirya.",
+            "Kababembe."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Purple Dye plant",
+        "lug_first_clan": "Kiwere",
+        "en_second_clan": "",
+        "lug_second_clan": "Sekafu",
+        "clan_head": "Luwonko",
+        "clan_seat":"Kitanda, Bugangazzi",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+    },
+    {
+        "en_first_clan": "Air potato",
+        "lug_first_clan": "Kkobe",
+        "en_second_clan": "a type of yam",
+        "lug_second_clan": "Kaama",
+        "clan_head": "Namwama",
+        "clan_seat":"Buwama, Mawokota",
+        "clan_mottos": [
+            "Kasonzi mulwadde."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Pangolin",
+        "lug_first_clan": "Lugave",
+        "en_second_clan": "",
+        "lug_second_clan": "Maleere",
+        "clan_head": "Ndugwa",
+        "clan_seat":"Katende, Mawokota",
+        "clan_mottos": [
+            "Lwa Ndugwa, lwa Katende.",
+            "Sseruku lulengejja, simanyi lulingwira?",
+            "Saagala balangajja, bw'ompa akawala ako ng'ebbanja liwedde."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Millipede, Porch-roof-watter",
+        "lug_first_clan": "Mazzi ga Kisasi",
+        "en_second_clan": "",
+        "lug_second_clan": "Ggongolo",
+        "clan_head": "Wooyo",
+        "clan_seat":"Kasaka, Buddu",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Buffalo",
+        "lug_first_clan": "Mbogo",
+        "en_second_clan": "a type of mushroom",
+        "lug_second_clan": "Ndeerwe",
+        "clan_head": "Kayiira Gaajuule",
+        "clan_seat":"Mugulu, Ssingo",
+        "clan_mottos": [
+            "Katutu Kaagwa."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Dog",
+        "lug_first_clan": "Mbwa",
+        "en_second_clan": "hunting bell",
+        "lug_second_clan": "Kyuma kya Mbwa",
+        "clan_head": "Mutasingwa",
+        "clan_seat":"Kiggwa, Busujju",
+        "clan_mottos": [
+            "Ntegereza Abataka kye baatukola.",
+            "Kababembe."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Lungfish",
+        "lug_first_clan": "Mmamba",
+        "en_second_clan": "young lungfish",
+        "lug_second_clan": "Muguya",
+        "clan_head": "Gabunga",
+        "clan_seat":"Ssagala, Busiro",
+        "clan_mottos": [
+            "Kalya kokka."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Oribi",
+        "lug_first_clan": "Mpeewo",
+        "en_second_clan": "Kangaroo Rat",
+        "lug_second_clan": "Kayozi",
+        "clan_head": "Kiggye",
+        "clan_seat":"Kkungu, Kyaddondo",
+        "clan_mottos": [
+            "Mpiima ne Nampiima bagenda e Kkungu"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Type of bean",
+        "lug_first_clan": "Mpindi",
+        "en_second_clan": "",
+        "lug_second_clan": "Kiyindiru",
+        "clan_head": "Mazige",
+        "clan_seat":"Muyenje, Busiro",
+        "clan_mottos": [
+            "Tungulako emu (enkejje).",
+            "Kababembe cca, kababembe nkejje zattu cca."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Lion",
+        "lug_first_clan": "Mpologoma",
+        "en_second_clan": "Leopard",
+        "lug_second_clan": "Ngo",
+        "clan_head": "Namuguzi",
+        "clan_seat":"Kasagga, Bulemeezi",
+        "clan_mottos": [
+            "Namuguzi akaabira Kasagga"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Cane Rat",
+        "lug_first_clan": "Musu",
+        "en_second_clan": "Kangaroo Rat",
+        "lug_second_clan": "Kayozi",
+        "clan_head": "Muyingo",
+        "clan_seat":"Ssama, Mawokota",
+        "clan_mottos": [
+            "Kivu kizze, okuluma n'okutwalana"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+
+    {
+        "en_first_clan": "Heart",
+        "lug_first_clan": "Mutima",
+        "en_second_clan": "Lungs",
+        "lug_second_clan": "Mawuggwe",
+        "clan_head": "Kakeeto",
+        "clan_seat":"Bbaale, Buddu",
+        "clan_mottos": [
+            "Kifa ennyanja, omuvubi y'abika."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Brown-Grass-Fich",
+        "lug_first_clan": "Nyonyi-Nakinsige",
+        "en_second_clan": "",
+        "lug_second_clan": "Kkunguvvu",
+        "clan_head": "Kyeyune",
+        "clan_seat":"Mirembe, Kyaggwe",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Sheep",
+        "lug_first_clan": "Ndiga",
+        "en_second_clan": "Lion",
+        "lug_second_clan": "Mpologoma",
+        "clan_head": "Lwomwa",
+        "clan_seat":"Mbaale, Mawokota",
+        "clan_mottos": [
+            "Mbaale, Mawokota."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Lurk",
+        "lug_first_clan": "Enyonyi-Ndiisa, Ndiisa",
+        "en_second_clan": "",
+        "lug_second_clan": "",
+        "clan_head": "Ssaabataka",
+        "clan_seat":"Kaliiti, Busiro",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Bushbuck",
+        "lug_first_clan": "Ngabi-Nsamba/Nnyunga",
+        "en_second_clan": "wattle leaf",
+        "lug_second_clan": "Jjerengesa",
+        "clan_head": "Nsamba Lukonge",
+        "clan_seat":"Buwanda, Mawokota",
+        "clan_mottos": [
+            "Tadde, Kakku.",
+            "Kalikuta.(Kalikutanda ne kakutwala mu Bengabi Abasambaganyi)"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+
+    {
+        "en_first_clan": "Crested Crane",
+        "lug_first_clan": "Ng'aali, Nηηali, Ngaali",
+        "en_second_clan": "",
+        "lug_second_clan": "Kasanke akeeru",
+        "clan_head": "Maweesano",
+        "clan_seat":"Buzooba, Buddu",
+        "clan_mottos": [
+            "Bwaali, bwaali wa nnyonyi abuuse abuuse Tudde, tudde e Buzooba, mu Kaabaana mulimu engo."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Colobus Monkey",
+        "lug_first_clan": "Ngeye",
+        "en_second_clan": "",
+        "lug_second_clan": "Kkunguvvu",
+        "clan_head": "Kasujja",
+        "clan_seat":"Busujja, Busiro",
+        "clan_mottos": [
+            "Tatuula."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Leopard",
+        "lug_first_clan": "Ngo",
+        "en_second_clan": "Genet Cat",
+        "lug_second_clan": "Kasimba",
+        "clan_head": "Muteesaasira",
+        "clan_seat":"Bukesa, Butambala",
+        "clan_mottos": [
+            "Akaala k'engo nnamuzisa",
+            "Nabbuto ggwe mpita"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Otter",
+        "lug_first_clan": "Ng'onge, Ngonge, Nηηonge",
+        "en_second_clan": "",
+        "lug_second_clan": "Kaneene",
+        "clan_head": "Kisolo",
+        "clan_seat":"Lweza, Busujju",
+        "clan_mottos": [
+            "Bakyanjankete.",
+            "Lwajjali."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Reedbuck",
+        "lug_first_clan": "Njaza",
+        "en_second_clan": "Type of Antelope",
+        "lug_second_clan": "Ngujulu",
+        "clan_head": "Kitanda",
+        "clan_seat":"Kkonko, Kyaggwe",
+        "clan_mottos": [
+            "Ow'omugugu aliguta.",
+            "Ssendabanyoro tentama",
+            "Akaana k'enjaza, alikatta alikalya"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Marsh Antelope",
+        "lug_first_clan": "Njobe",
+        "en_second_clan": "",
+        "lug_second_clan": "Bugaala",
+        "clan_head": "Mpummudde, Ssingo",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Elephant",
+        "lug_first_clan": "Njovu",
+        "en_second_clan": "Hippopotamus",
+        "lug_second_clan": "Nvubu",
+        "clan_head": "Mukalo",
+        "clan_seat":"Kambugu, Busiro",
+        "clan_mottos": [
+            "Nsimbye Amasanga, Nakate ajja."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Haplochromis",
+        "lug_first_clan": "Nkejje",
+        "en_second_clan": "",
+        "lug_second_clan": "Nkejje Kiyemba",
+        "clan_head": "Kikwata",
+        "clan_seat":"Namukuma, Kyaggwe",
+        "clan_mottos": [
+            "Kiiso kya mbuzi"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Jungle-shrew",
+        "lug_first_clan": "Nkerebwe",
+        "en_second_clan": "",
+        "lug_second_clan": "Kikirikisi",
+        "clan_head": "Kidimbo",
+        "clan_seat":"Budimbo, Ssingo",
+        "clan_mottos": [
+            "Nkerebwe nkulu, esima ng'eggalira"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Monkey, Vervet-Monkey",
+        "lug_first_clan": "Nkima",
+        "en_second_clan": "",
+        "lug_second_clan": "Byenda",
+        "clan_head": "Mugema",
+        "clan_seat":"Bbira, Busiro",
+        "clan_mottos": [
+            "Talya Nkima"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Rhino, Rhinoceros",
+        "lug_first_clan": "Nkula",
+        "en_second_clan": "",
+        "lug_second_clan": "",
+        "clan_head": "Muwangi",
+        "clan_seat":"Mayobe, Bugerere",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Crow, Pied-crow",
+        "lug_first_clan": "Nnamung'oona, Nnamungoona",
+        "en_second_clan": "Heart",
+        "lug_second_clan": "Mutima",
+        "clan_head": "Kajjabuwongwa",
+        "clan_seat":"Kyabuwangwa, Ggomba",
+        "names": [
+             "Yajja aseka, mu Kyambadde mulimu engo"
+        ]
+        
+    },
+    {
+        "en_first_clan": "Cattle-egret, Egret",
+        "lug_first_clan": "Nnyonyi Nnyange",
+        "en_second_clan": "",
+        "lug_second_clan": "Kkunguvvu",
+        "clan_head": "Kakoto-Mbaziira",
+        "clan_seat":"Bulimu, Kyaggwe",
+        "clan_mottos": [
+            "Bampe omuggo neewerekeze",
+            "Si Mwana Kijjolooto"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Grasshopper",
+        "lug_first_clan": "Nseenene",
+        "en_second_clan": "Grasshopper & ??",
+        "lug_second_clan": "Nseenene & Nabangogoma",
+        "clan_head": "Mugalula",
+        "clan_seat":"Kisozi, Ggomba",
+        "clan_mottos": [
+            "Ggwe mpagi, ggwe luwaga",
+            "Nakimera muka Ssuuna bw'asa bw'anegula.",
+            "Byaja ne bigwa.(Guno Gwa Mugalula)"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Elephant-Snout-Fish",
+        "lug_first_clan": "Nsuma",
+        "en_second_clan": "elephant snout fish",
+        "lug_second_clan": "Kasulubbana",
+        "clan_head": "Kibondwe",
+        "clan_seat":"Bukibondwe, Buvuma",
+        "clan_mottos": [
+            "Kibondwe yeddira Nsuma, Kibondwe",
+            "atambula"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Monitor Lizard",
+        "lug_first_clan": "Nswaswa",
+        "en_second_clan": "crocodile",
+        "lug_second_clan": "Goonya",
+        "clan_head": "Mayengo",
+        "clan_seat":"Bugabo, Buvuma",
+        "clan_mottos": [
+            "Mayengo Itutu"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Duiker/Blue-duiker",
+        "lug_first_clan": "Ntalaganya",
+        "en_second_clan": "",
+        "lug_second_clan": "Amazzi g'ekisasi, Omussukundu,  Maleere",
+        "clan_head": "Bbambaga",
+        "clan_seat":"Bbambaga, Bulemezi",
+        "clan_mottos": [
+            "Omusajja Kalamazi ne jjo ndiramaga.",
+            "Mussukundu Butiko"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Cow",
+        "lug_first_clan": "Nte",
+        "en_second_clan": "Cow, Crested Crane",
+        "lug_second_clan": "Nte, Ng'aali (Ngaali)",
+        "clan_head": "Katongole",
+        "clan_seat":"Mulema, Buddu",
+        "clan_mottos": [
+            "Ekyuma nkiridde n'omukimba ngulidde."
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Hippopotamus",
+        "lug_first_clan": "Nvubu",
+        "en_second_clan": "Elephant",
+        "lug_second_clan": "Njovu",
+        "clan_head": "Kayita",
+        "clan_seat":"Mbazi, Kyaggwe",
+        "clan_mottos": [
+            "Mu nnyanja weddiramu ki?: Nvubu"
+        ],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Aquatic-Pod",
+        "lug_first_clan": "Nvuma",
+        "en_second_clan": "creeper",
+        "lug_second_clan": "Katinvuma",
+        "clan_head": "Kyaddondo",
+        "clan_seat":"Kawempe, Kyaddondo",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Finch",
+        "lug_first_clan": "Kasanke",
+        "en_second_clan": "",
+        "lug_second_clan": "",
+        "clan_head": "Kyanku",
+        "clan_seat":"",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Morning-dew-pad",
+        "lug_first_clan": "Kibuba",
+        "en_second_clan": "",
+        "lug_second_clan": "",
+        "clan_head": "Nnyanja",
+        "clan_seat":"",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Stiletto",
+        "lug_first_clan": "Lukato",
+        "en_second_clan": "",
+        "lug_second_clan": "Kabbokasa",
+        "clan_head": "Magunda/Lyongera",
+        "clan_seat":"Kisuza/Kiziba, Buweekula",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Goat",
+        "lug_first_clan": "Mbuzi",
+        "en_second_clan": "",
+        "lug_second_clan": "",
+        "clan_head": "Kisunsu",
+        "clan_seat":"Muwunune",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Excreta/ Feaces",
+        "lug_first_clan": "Nkebuka",
+        "en_second_clan": "",
+        "lug_second_clan": "",
+        "clan_head": "Kayizzi",
+        "clan_seat":"",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    },
+    {
+        "en_first_clan": "Kob",
+        "lug_first_clan": "Nsunu",
+        "en_second_clan": "",
+        "lug_second_clan": "",
+        "clan_head": "Kabugira",
+        "clan_seat":"",
+        "clan_mottos": [],
+        "names": {
+            "male": [
+
+            ],
+            "female": [
+
+            ]
+        }
+        
+    }
+   
+]
